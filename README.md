@@ -1,6 +1,5 @@
 # Cristiano-Ronaldo-s-Career-Goals-Data-Analysis
 
-![Cristiano Ronaldo](cr7.jpg)
 
 This repository contains the code and data for a data analysis of Cristiano Ronaldo's career goals. The data was obtained from Kaggle and includes information on Ronaldo's goals for each club and country he has played for, as well as the type of goal (e.g., penalty, free kick, header).
 
